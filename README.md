@@ -12,7 +12,8 @@ https://wingo66888.github.io/time-vue/
 # 說明
 想要添加時鐘效果添加id與資料
 
-
+```
 <div id="clock">
-        {{ h }} : {{ m }} : {{ s }}
+     {{ h }} : {{ m }} : {{ s }}
 </div>
+```
